@@ -23,8 +23,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-=q=)o^xsdx#2#2n%6t(lyay=#171=8@a!d(g+-(a3i8%31*-@q"
 
 # LINE Messaging API
-LINE_CHANNEL_SECRET = 'e7aede15e5e60ce4533b66233479e4d8'
-LINE_CHANNEL_ACCESS_TOKEN = 'KmkngR1xeSDVV5ZZmXHe2hi99tY0R69FUoeuVdtTyBQsHWOcWzVViyvLns9edonB8HsjpuaVj0gvIYCIimAJL+XQ6vOEALri8BFVySEueTjmhuICKceiuJbGReNwGz9A21BnI4XYb6C9w1tzN6HqzQdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_SECRET = '4ffc55c2615679881531db0fb5fc76db'
+LINE_CHANNEL_ACCESS_TOKEN = '8tefG7N0wLfjtTuO7M03qJ4XyfsiZvmnodC+SMQFsEJkybXQloCcQ+1wJfu0Xsd/VDLeIA7lnMIY0E/9yJ1YheI+/34Rg4+ZadAMc6QoeujqTg/OBku6XgxUxgzP3Gtrth+AfwbfNmkzyyUz0rRxLAdB04t89/1O/w1cDnyilFU='
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
